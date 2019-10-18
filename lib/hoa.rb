@@ -10,5 +10,5 @@ def add_character(show, name)
   # Should return the array of the 'show' argument
   #show[:chipmunks] << "Dave"
   show[:third_earthers] << "Snarf"
-  show[:jetsons] << "Astro"
+  #show[:jetsons] << "Astro"
 end
